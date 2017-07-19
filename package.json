@@ -1,0 +1,19 @@
+{
+  "name": "fcc-image-search",
+  "version": "0.0.1",
+  "description": "Project for FreeCodeCamp trainning",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cors": "^2.8.4",
+    "express": "^4.15.3",
+    "google-images": "^2.1.0",
+    "mongoose": "^4.11.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
